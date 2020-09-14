@@ -1,3 +1,4 @@
+.gitignore
 .env
 composer.lock
 vendor/autoload.php
