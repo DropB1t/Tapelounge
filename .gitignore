@@ -1,5 +1,4 @@
 .env
-composer.lock
 vendor/autoload.php
 vendor/composer/autoload_classmap.php
 vendor/composer/autoload_files.php
